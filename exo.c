@@ -22,7 +22,7 @@ float calculette(float a, float b, char operateur)
          case '/':
          if(b==0)
          {
-            printf("impossible de divider un nombre par 0");
+            printf("impossible de diviser un nombre par 0");
             break;
          }
          else
